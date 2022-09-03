@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web developer and designer
 --------------------------
 
-I have been learning to code in the web development space for the past 3 years, freelancing and working as a front-end developer. My passion is to merge the code with beautiful conversion-centred design to meet business goals.
+I have been learning to code in the web development space for the past 3 years, freelancing and working as a front-end developer. My passion is to merge code with beautiful conversion-centred design to meet business goals.
 
 *   🌍  I'm based in London
 *   ✉️  You can contact me at [a.muse@rapidmuse.com](mailto:a.muse@rapidmuse.com)
