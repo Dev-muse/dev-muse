@@ -8,7 +8,7 @@ I have been learning to code in the web development space for the past 3 years, 
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [a.muse@rapidmuse.com](mailto:a.muse@rapidmuse.com)
-* 🚀  I'm currently working on [Jaunt](http://dev-muse.github.io/TaskMate/](https://jauntapp.netlify.app/)
+* 🚀  I'm currently working on [Jaunt](https://jauntapp.netlify.app/)
 * 🧠  I'm learning React ,Web3, Backend development
 * 🤝  I'm open to collaborating on Interesting projects
 
