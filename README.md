@@ -8,7 +8,7 @@ I have been learning to code in the web development space for the past 3 years, 
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [a.muse@rapidmuse.com](mailto:a.muse@rapidmuse.com)
-* 🚀  I'm currently working on [Note Gecko]([https://jauntapp.netlify.app/](https://note-gecko.vercel.app/))
+* 🚀  I'm currently working on [Note Gecko](https://note-gecko.vercel.app/)
 * 🧠  I'm learning NEXT JS,Web3 and AI development
 * 🤝  I'm open to collaborating on Interesting projects
 
