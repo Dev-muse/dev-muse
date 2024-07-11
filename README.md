@@ -4,7 +4,7 @@ Hi!,I'm Rahman
 Web Developer and Designer
 --------------------------
 
-I have been learning to code in the web development space for the past 3 years, freelancing and working as a front-end developer. My passion is to merge elegant functional code with beautiful conversion-centred design to meet business goals in the e-commerce space.
+I have been in the web development space for the past 5 years, freelancing and working as a front-end developer. My passion is to merge elegant functional code with beautiful conversion-centred design to meet business goals in the e-commerce space.
 
 * 🌍  I'm based in London
 * ✉️  You can contact me at [a.muse@rapidmuse.com](mailto:a.muse@rapidmuse.com)
