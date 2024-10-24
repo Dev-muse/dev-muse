@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Rahman
+Hi There, I'm Rahman
 ==============================================================================================================================
 
 I have been in the web development space for the past 5 years, freelancing and working as a front-end developer. My passion is to merge elegant functional code with beautiful conversion-centred design to meet business goals in the e-commerce/start up space.
