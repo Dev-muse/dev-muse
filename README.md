@@ -1,6 +1,6 @@
 # Hi There, I'm Rahman 👋
 
-I’m a full-stack developer with a curious mind and a love for exploring new technologies. Over the past 5 years, I’ve evolved from a front-end developer into a versatile problem-solver with experience across web3, AI, and modern web development. I enjoy building elegant, functional applications that deliver both value and great user experiences.
+I’m a full-stack developer with a curious mind and a passion for learning. Over the past five years, I’ve grown from a front-end developer into a well-rounded engineer who enjoys working across web3, AI, and modern web technologies. I focus on building applications that are both elegant and practical, combining thoughtful design with solid engineering. Whether it’s crafting smooth user experiences, exploring decentralised systems, or experimenting with AI-driven tools, I enjoy solving problems and turning ideas into real, useful products.
 
 - 🌍 Based in London  
 - 🖥️ Portfolio: [My Portfolio](http://www.rapidmuse.com)  
@@ -37,8 +37,3 @@ I’m a full-stack developer with a curious mind and a love for exploring new te
 <a href="https://www.dribbble.com/aMuseDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" alt="Dribbble" /></a>
 </p>
 
----
-
-## About Me
-
-From crafting responsive front-end interfaces to exploring blockchain, AI, and serverless architectures, I love learning and experimenting with new technologies. I thrive on building projects that push my knowledge, solve real problems, and combine aesthetics with performance.
