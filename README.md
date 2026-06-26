@@ -7,7 +7,7 @@ I’m a full-stack developer with a curious mind and a passion for learning. Ove
 - ✉️ Contact: [a.muse@rapidmuse.com](mailto:a.muse@rapidmuse.com)  
 - 🚀 Currently working on: [Kitt](https://github.com/Dev-muse/kitt)  
 - 🧠 Learning: Tanstack Start, AI development  
-- 🤝 Open to collaborating on innovative projects  
+- 🤝 Open to collaborating on exciting projects  
 
 ---
 
